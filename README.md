@@ -3,7 +3,7 @@
 ## Overview:
 I have to create a simple task management system where users can create up to 3 tasks through prompts
 that are stored within objects which are eventually stored into an already existing array.
-Each task is meant to have a unique ID attachted to it to differientiate from each other in case
+Each task is meant to have a unique ID attached to it to differentiate from each other in case
 of duplicates. 
 
 ## How to run:
@@ -19,7 +19,7 @@ of duplicates.
 
 ---
 
-## Intial thoughts:
+## Initial thoughts:
 I came into this project very confident. Based off the overview that was given to me on the project page
 it seemed to almost repeat of the previous project, but just with some added changes such as using objects,
 and already having set tasks that needed to be added.
@@ -29,10 +29,10 @@ and already having set tasks that needed to be added.
 for the sake of clarity.
 
 * The only struggle that I can actually note was trying to add the new tasks and the old
-tasks into a combined array, but through trial and error I eventually managed to make it work and everything runs
+combine the new and existing tasks into a single array, but through trial and error I eventually managed to make it work and everything runs
 as intended.
 
-* Not necessarily a struggle, but moreso an issue that I try to fix from project to project. My commit messages,
+* Not necessarily a struggle, but more so an issue that I try to fix from project to project. My commit messages,
 I tend to code for very long periods without making too many commits and that is something I've been trying to do less and less.
 
 ---
